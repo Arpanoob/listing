@@ -9,9 +9,8 @@ For Frontend =
   start   : npm run dev
 ****************************************
   Backend have 2 EndPoints => (1) /api/v1/auth
-  
                               (2) /api/v1/todos
-                              ***
+                            
 
   (1) /api/v1/auth have routes = /register (POST) , /login  (POST)
   **
