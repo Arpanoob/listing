@@ -7,7 +7,7 @@ For Backend =
   start   : npm run dev;
    
 For Frontend =
-  perform : npm install; npm i nodemon;
+  perform : npm install;
   start   : npm run dev
 ****************************************
   Backend have 2 EndPoints => (1) /api/v1/auth
