@@ -1,3 +1,5 @@
+Switch To DEVELOP branch contains stable code 
+
 The Main Folder are  => backend AND frontend  
 
 For Backend =
@@ -11,9 +13,9 @@ For Frontend =
   Backend have 2 EndPoints => (1) /api/v1/auth
                               (2) /api/v1/todos
                             
-
+*****************************
   (1) /api/v1/auth have routes = /register (POST) , /login  (POST)
-  **
+*******************************
   (2) /api/v1/todos have routes = "/" (get) , "/" (get) ,"/" (get) ,"/:id" (get)
 ********************************
   have .env file =>
