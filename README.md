@@ -20,6 +20,7 @@ For Frontend =
 ********************************
   have .env file =>
                   DB_USERNAME=
+                  
                   DB_PASSWORD=
                   DB_DATABASE=
                   DB_HOST=
